@@ -5,7 +5,7 @@ body {
   color: #35465d;
 }
 .file-upload {
-    padding: 15% 3%;
+    padding: 10% 3%;
     margin: 0 auto;
     border-radius: 10px;
     border: solid 1.5px #f6f7fa;
@@ -131,7 +131,7 @@ body {
 }
 
 .section {
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .title {
@@ -476,6 +476,7 @@ input:checked + label > .knob > i:before {
     
 }
 .ad-banner2 {
-    width: 700px;
+    width: 720px;
     margin: 0 auto;
+    text-align: center;
 }
